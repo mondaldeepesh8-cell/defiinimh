@@ -1,0 +1,19 @@
+{
+  "name": "thermoshelter",
+  "version": "1.0.0",
+  "description": "National Passive Infrastructure Digital Twin & ANSYS Enterprise Validation Bridge",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "keywords": [
+    "thermoshelter",
+    "himalayan-architecture",
+    "digital-twin",
+    "passive-solar",
+    "ansys",
+    "drdo"
+  ],
+  "author": "THERMOSHELTER Team",
+  "license": "UNLICENSED"
+}
